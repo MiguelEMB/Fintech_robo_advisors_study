@@ -1,2 +1,41 @@
 # Fintech_robo_advisors_study
 Using Betterment as an example to analyze the innovations and trends for the robo-advisors in the fintech industry. 
+
+# Betterment: Revolutionizing Robo-Advisory in Wealth Management
+
+## Overview and Origin
+
+Betterment is a robo-advisor that was founded in 2008 by Jon Stein and Eli Broverman. It was launched in 2010 and has since grown into one of the largest robo-advisors in the industry, with aproximatly $32 billion in assets under managment and over 775,000 custumers. Jon Stein, who had a background in economics and worked as a consultant for First Manhattan Consulting Group, conceived the idea for Betterment while pursuing his MBA at Columbia Business School. He believed that there was a gap in the market for affordable, transparent, and efficient investment management services. He was joined by Eli Broverman, a lawyer with experience in the financial industry. 
+
+The company has raised a total of $435M in funding through 10 funding rounds. Their latest funding came from a Debt Financing round on Sep 29, 2021. The company has 26 investors, with Kinnevik and Aflac Global Ventures being the most recent investors. According to PrivCo, as of Sep 29, 2021, Betterment has a post-money valuation in the range of $1B to $10B. To get an exact valuation and search for companies with similar valuations, interested parties can sign up for a free trial. Betterment has acquired three organizations to date, with their most recent acquisition being Gradvisor on Feb 23, 2022.
+## Business Activities
+
+Betterment's main goal is to make investing more accessible, convenient, and affordable for the masses. The company does this by providing personalized investment advice and portfolio management to help customers achieve their long-term financial goals. Its platform is designed to be user-friendly and easy to navigate, and it provides a variety of financial planning tools to help customers save for retirement, education, or a down payment on a house.  Betterment targets individual investors, particularly those who are new to investing or have limited knowledge of financial markets, and who have lower networth. The company's robo-advisory platform aims to bridge the gap between traditional financial advisors and self-directed investing by offering a cost-effective, technology-driven solution. Betterment's primary advantage is its focus on customer experience and its use of technology to simplify the investment process, making it more accessible to a broader audience.  
+
+Betterment's main advantage over its competitors is its focus on financial planning and goal-based investing. Its platform helps customers set and achieve their financial goals by providing personalized investment advice and portfolio management. It also offers a suite of other financial planning tools, such as retirement planning and tax-loss harvesting. Betterment utilizes machine learning algorithms and data analysis to create personalized investment portfolios for its customers. The company's platform is built using technologies such as Python, Ruby on Rails, and JavaScript, and it leverages cloud-based infrastructure to ensure scalability and security(AWS).
+
+## Landscape
+
+Betterment operates in the robo-advisor domain of the financial industry. The robo-advisor industry has seen significant growth over the last decade, with the rise of passive investing, the growth of digital advisory platforms, and the integration of artificial intelligence and machine learning into investment management. The emergence of robo-advisors has been one of the most significant trends in the wealth management domain in the last decade. These digital platforms have made it easier and more cost-effective for individual investors to access investment management services. Other notable trends include the increased use of artificial intelligence and machine learning to enhance portfolio management, as well as the rise of mobile and web-based platforms that allow investors to manage their portfolios on the go. According to statista the Robo-Advisors AUM  is projected to be worth US$2.76 trillion by this year, with an expected Compound Annual Growth Rate (CAGR) of 14.00% between 2023-2027 resulting in a projected AUM of US$4.66tn by 2027. Some of the other major companies in the robo-advisor domain include Wealthfront, Acorns, and Charles Schwab's Intelligent Portfolios. Betterment has been able to differentiate itself from these competitors by focusing on financial planning and goal-based investing.
+## Results
+
+Betterment's business impact has been significant in the wealth management and robo-advisory industry. It has democratized access to investment management services by offering low-cost, user-friendly solutions. As a result, Betterment has proximatly $32 billion in assets under managment and over 775,000 custumers and loyalty score of 78% according to Comparably. Betterment is a leading player in the robo-advisory domain, competing with companies such as Wealthfront, Personal Capital, and Vanguard's Personal Advisor Services. While it may not have the largest AUM in the industry, Betterment's focus on customer experience and innovation has allowed it to maintain a strong competitive position. Betterment is a leading player in the robo-advisory domain, competing with companies such as Wealthfront, Personal Capital, and Vanguard's Personal Advisor Services. While it may not have the largest AUM in the industry, Betterment's focus on customer experience and innovation has allowed it to maintain a strong competitive position being ranked #4 Robo-Advisor firm by AUM, being Vanguard Digital Advisor the number player with $140.7B as of december 2022.
+## Recommendations
+
+If I were to advise Betterment, I would suggest that they continue to focus on financial planning and goal-based investing. This is their core competency and what sets them apart from their competitors. I would also suggest that they continue to invest in cutting-edge technologies, such as machine learning and artificial intelligence, to improve their investment management and customer experience. In addition, I would suggest that Betterment consider expanding their services to include other financial products, such as insurance or mortgages. This would allow them to offer a more comprehensive suite of financial products to their customers and potentially increase their customer base. 
+
+Another thing they could do is enhance its mobile app by incorporating gamification features that encourage users to set and achieve financial goals. Additionally, integrating features like personalized financial insights, educational content, and an improved user interface would drive user engagement and satisfaction. This might not sound like a great a idea at first, but this will incenstivate more users to learn about finance.
+
+Overall, Betterment has been able to successfully disrupt the traditional investment industry by providing a low-cost, high-quality investment advice and portfolio management to the masses. Its focus on financial planning and goal-based investing has set it apart from its competitors, and its user-friendly platform has made it accessible to everyday investors. Betterment has a bright future ahead, and I am excited to see how it continues to evolve and grow in the years to come.
+
+### Sources 
+https://www.betterment.com/about
+https://www.crunchbase.com/organization/betterment/company_financials
+https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide#assets-under-management
+https://www.crunchbase.com/organization/betterment/technology
+https://www.cbinsights.com/company/betterment/alternatives-competitors
+https://www.forbes.com/advisor/investing/robo-advisor-betterment-review/
+https://www.comparably.com/brands/betterment
+https://investingintheweb.com/brokers/the-largest-robo-advisors-by-aum/
+https://open.spotify.com/episode/5JahOeAYbHYU3MABp4dxwV?si=4c4d9cc95ba14a1a
+https://www.youtube.com/watch?v=RqaKf5zkN-8
